@@ -1,0 +1,22 @@
+# Binaries #
+*.exe
+*.dll
+
+# User config #
+*.suo
+*.user
+
+.gitignore~
+*.swp
+
+bin/
+obj/
+*.cachefile
+
+packages/
+
+# Word temp files #
+~*
+
+# Windows thumbnail cache files #
+Thumbs.db
